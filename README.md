@@ -1,2 +1,2 @@
-# primerapreentrega-aldana-ramos
+# proyectojavaScript-aldana-ramos
 simulador de prestamos 
